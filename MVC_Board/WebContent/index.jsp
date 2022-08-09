@@ -16,6 +16,7 @@
 </style>
 </head>
 <body>
+	<!-- dusxo0310@nate.com 수정 -->
 	<header>
 		<!-- 상단 Login, Join 링크 표시 -->
 		<%
