@@ -16,6 +16,7 @@
 </style>
 </head>
 <body>
+	<!-- ytlee@itwillbs.co.kr 수정 -->
 	<header>
 		<!-- 상단 Login, Join 링크 표시 -->
 		<%
