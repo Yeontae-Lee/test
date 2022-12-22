@@ -10,7 +10,7 @@
 </head>
 <body>
 	<div id="wrap">
-		<!-- 헤더 들어가는곳1111 -->
+		<!-- 헤더 들어가는곳222222 -->
 		<jsp:include page="../inc/top.jsp" />
 		<!-- 헤더 들어가는곳 -->
 		
